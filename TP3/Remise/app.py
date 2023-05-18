@@ -7,8 +7,8 @@ app = Flask(__name__)
 app.config['MAIL_SERVER'] = "smtp.office365.com"
 app.config['MAIL_PORT'] = 587
 app.config['MAIL_USE_TLS'] = True
-app.config['MAIL_USERNAME'] = "trashccount02@outlook.com"
-app.config['MAIL_PASSWORD'] = "retna47$"
+app.config['MAIL_USERNAME'] = "trashccount02@outlook.qc.ca"
+app.config['MAIL_PASSWORD'] = "retna, you need to hide your 47$ next time"
 app.config['DEBUG'] = True
 print(" - - - Email Settings Complete")
 
